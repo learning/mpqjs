@@ -1,0 +1,35 @@
+{
+  "name": "mpqjs",
+  "version": "0.0.1",
+  "description": "Library for reading MPQ (MoPaQ) archives",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/mpq.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learning/mpqjs.git"
+  },
+  "keywords": [
+    "mpq",
+    "mopaq",
+    "blizzard",
+    "warcraft",
+    "starcraft",
+    "diablo"
+  ],
+  "author": "Learning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learning/mpqjs/issues"
+  },
+  "homepage": "https://github.com/learning/mpqjs#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "compressjs": "^1.0.3",
+    "int64_t": "^0.9.0"
+  }
+}

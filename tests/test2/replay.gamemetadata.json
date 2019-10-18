@@ -1,0 +1,25 @@
+{
+    "Title": "浴血迪斯科 - 天梯版",
+    "GameVersion": "4.10.3.76114",
+    "DataBuild": "76114",
+    "DataVersion": "CDB276D311F707C29BA664B7754A7293",
+    "BaseBuild": "Base76114",
+    "Duration": 1111,
+    "Players": [
+        {
+            "PlayerID": 1,
+            "MMR": 2143,
+            "APM": 40.000000,
+            "Result": "Loss",
+            "SelectedRace": "Prot",
+            "AssignedRace": "Prot"
+        },
+        {
+            "PlayerID": 2,
+            "APM": 128.000000,
+            "Result": "Win",
+            "SelectedRace": "Rand",
+            "AssignedRace": "Zerg"
+        }
+    ]
+}

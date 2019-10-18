@@ -1,0 +1,66 @@
+{
+    "Title": "星空堡垒",
+    "GameVersion": "4.10.3.76114",
+    "DataBuild": "76114",
+    "DataVersion": "CDB276D311F707C29BA664B7754A7293",
+    "BaseBuild": "Base76114",
+    "Duration": 1282,
+    "Players": [
+        {
+            "PlayerID": 1,
+            "APM": 83.000000,
+            "Result": "Loss",
+            "SelectedRace": "Rand",
+            "AssignedRace": "Zerg"
+        },
+        {
+            "PlayerID": 2,
+            "APM": 123.000000,
+            "Result": "Loss",
+            "SelectedRace": "Rand",
+            "AssignedRace": "Terr"
+        },
+        {
+            "PlayerID": 3,
+            "APM": 43.000000,
+            "Result": "Win",
+            "SelectedRace": "Rand",
+            "AssignedRace": "Terr"
+        },
+        {
+            "PlayerID": 4,
+            "APM": 64.000000,
+            "Result": "Win",
+            "SelectedRace": "Prot",
+            "AssignedRace": "Prot"
+        },
+        {
+            "PlayerID": 5,
+            "APM": 117.000000,
+            "Result": "Loss",
+            "SelectedRace": "Zerg",
+            "AssignedRace": "Zerg"
+        },
+        {
+            "PlayerID": 6,
+            "APM": 75.000000,
+            "Result": "Win",
+            "SelectedRace": "Terr",
+            "AssignedRace": "Terr"
+        },
+        {
+            "PlayerID": 7,
+            "APM": 90.000000,
+            "Result": "Loss",
+            "SelectedRace": "Terr",
+            "AssignedRace": "Terr"
+        },
+        {
+            "PlayerID": 8,
+            "APM": 102.000000,
+            "Result": "Win",
+            "SelectedRace": "Rand",
+            "AssignedRace": "Prot"
+        }
+    ]
+}
